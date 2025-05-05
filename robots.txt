@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://factory-commissioning-oman.alwejhagroup.com/sitemap.xml
